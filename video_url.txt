@@ -1,0 +1,5 @@
+Player URL:
+https://yellowpie940.github.io/player/?list=https://raw.githubusercontent.com/yellowpie940/a1e24af1b2a15e2a/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/yellowpie940/a1e24af1b2a15e2a/refs/heads/master/github_master.m3u8
